@@ -1,0 +1,38 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "<your OpenAI API key here>"
+    },  
+    {
+        "model": "gpt-4",
+        "api_key": "<your first Azure OpenAI API key here>",
+        "api_base": "<your first Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2023-06-01-preview"
+    },  
+    {
+        "model": "gpt-4",
+        "api_key": "<your second Azure OpenAI API key here>",
+        "api_base": "<your second Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2023-06-01-preview"
+    },  
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "<your OpenAI API key here>"
+    }, 
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "<your first Azure OpenAI API key here>",
+        "api_base": "<your first Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2023-06-01-preview"
+    }, 
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "<your second Azure OpenAI API key here>",
+        "api_base": "<your second Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2023-06-01-preview"
+    } 
+]
